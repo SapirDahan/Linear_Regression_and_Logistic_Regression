@@ -51,19 +51,6 @@ The logistic regression script performs the following steps:
 - NumPy
 - Matplotlib
 
-### Usage
-
-1. Ensure you have Python 3.x installed.
-2. Install the required libraries using pip:
-   ```sh
-   pip install numpy matplotlib
-   ```
-3. Save the script as `logistic_regression.py`.
-4. Place the `prices.txt` file in the same directory as the script.
-5. Run the script:
-   ```sh
-   python logistic_regression.py
-   ```
 
 ### Output
 
